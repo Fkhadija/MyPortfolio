@@ -155,7 +155,7 @@ export default function App() {
                 <div className="mt-1">Gestion produits, optimisation SEO, analyse des performances.</div>
               </li>
               <li>
-                <strong>Violet Vision</strong> — Stagiaire Web Design (Juil 2025 - Présent)
+                <strong>Violet Vision</strong> — Stagiaire Web Design (Juil 2025 - Août 2025)
                 <div className="mt-1">Conception et intégration de maquettes e‑commerce responsive.</div>
               </li>
               <li>
